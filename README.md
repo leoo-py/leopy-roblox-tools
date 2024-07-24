@@ -5,6 +5,7 @@
 <p align="left"> <a href="https://github.com/leoo-py" target="blank"><img src="https://img.shields.io/twitter/follow/leoo-py?logo=twiter&style=for-the-badge" alt="leoo-py" /></a> </p>
 
 * Roblox tools in-one-go.
+* Download [here](https://github.com/leoo-py/leopy-roblox-tools/releases/download/1.0.0/leopy-roblox-tools.zip)
 * Here are the features
 ```
 - Auto Ally Bot
