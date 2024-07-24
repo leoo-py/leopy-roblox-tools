@@ -1,0 +1,6 @@
+aiohttp 
+rgbprint
+requests
+pillow
+browser_cookie3
+discordwebhook
